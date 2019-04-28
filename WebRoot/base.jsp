@@ -15,6 +15,5 @@
 </head>
 <body>
 欢迎来到招聘之家!!!
-test
 </body>
 </html>
